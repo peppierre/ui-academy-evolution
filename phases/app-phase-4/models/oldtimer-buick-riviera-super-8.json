@@ -1,0 +1,16 @@
+{
+    "name": "Buick Riviera Super 8",
+    "amount": 33895,
+    "id": "buick-riviera-super-8",
+    "image": "buick-riviera-super-8",
+    "year":	1953,
+    "bodytype":	"Coupe",
+    "passengers": 6,
+    "doors": 2,
+    "color": "Green",
+    "fueltype": "Petrol",
+    "cc": 5300,
+    "cylinderlayout": "V",
+    "transmission": "Automatic",
+    "currency": "USD"
+}

@@ -1,0 +1,15 @@
+.borderBoxSizing () {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.solidBorder (@color, @width: 1px) {
+    border: solid @width @color;
+}
+
+.radiusBorder (@radius: 5px) {
+    -webkit-border-radius: @radius;
+    -moz-border-radius:@radius;
+    border-radius: @radius;
+}

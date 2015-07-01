@@ -1,0 +1,14 @@
+<article class="vehicle-list">
+    <header>
+        <a href="#/logout">Log out</a>
+    </header>
+    <section>
+    {{#each vehicles}}
+        <section>
+            <a href="#/oldtimer/{{_slugs.[0]}}"><img src="http://res.cloudinary.com/hgzhd1stm/image/upload/c_scale/{{images.[0].key}}"/></a>
+            <h2><a href="#/oldtimer/{{_slugs.[0]}}">{{name}}</a></h2>
+            <div>{{variants.[0].price.amount}} {{variants.[0].price.currency}}</div>
+        </section>
+    {{/each}}
+    </section>
+</article>

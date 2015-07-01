@@ -1,0 +1,74 @@
+{
+    "vehicles": [
+        {
+            "name": "Fiat Topolino",
+            "amount": 660,
+            "id": "fiat-topolino",
+            "image": "fiat-topolino.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "Rover 10",
+            "amount": 10740,
+            "id": "rover-10",
+            "image": "rover-10.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "Citroen Rosalie 8",
+            "amount": 11500,
+            "id": "citroen-rosalie-8",
+            "image": "citroen-rosalie-8.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "Peugeot 201",
+            "amount": 12510,
+            "id": "peugeot-201",
+            "image": "peugeot-201.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "DKW f8",
+            "amount": 12992,
+            "id": "dkw-f8",
+            "image": "dkw-f8.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "Mercedes-Benz W 136",
+            "amount": 19802,
+            "id": "mercedes-benz-w-136",
+            "image": "mercedes-benz-w-136.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "Jaguar Mark 5",
+            "amount": 60077,
+            "id": "jaguar-mark-5",
+            "image": "jaguar-mark-5.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "Bentley Mark 6",
+            "amount": 67125,
+            "id": "bentley-mark-6",
+            "image": "bentley-mark-6.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "Simca 8",
+            "amount": 19560,
+            "id": "simca-8",
+            "image": "simca-8.jpg",
+            "currency": "USD"
+        },
+        {
+            "name": "Buick Riviera Super 8",
+            "amount": 33895,
+            "id": "buick-riviera-super-8",
+            "image": "buick-riviera-super-8.jpg",
+            "currency": "USD"
+        }
+    ]
+}

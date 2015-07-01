@@ -1,0 +1,16 @@
+{
+    "name": "Bentley Mark 6",
+    "amount": 67125,
+    "id": "bentley-mark-6",
+    "image": "bentley-mark-6",
+    "year":	1949,
+    "bodytype":	"Hatchback",
+    "passengers": 5,
+    "doors": 4,
+    "color": "Claret/Pink",
+    "fueltype": "Petrol",
+    "cc": 2663,
+    "cylinderlayout": "In-Line",
+    "transmission": "4-speed Manual",
+    "currency": "USD"
+}

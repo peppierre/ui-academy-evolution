@@ -1,0 +1,16 @@
+{
+    "name": "Mercedes-Benz W 136",
+    "amount": 19802,
+    "id": "mercedes-benz-w-136",
+    "image": "mercedes-benz-w-136",
+    "year":	1950,
+    "bodytype":	"Hatchback",
+    "passengers": 4,
+    "doors": 3,
+    "color": "Claret/White",
+    "fueltype": "Petrol",
+    "cc": 1767,
+    "cylinderlayout": "In-Line",
+    "transmission": "4-speed Manual",
+    "currency": "USD"
+}

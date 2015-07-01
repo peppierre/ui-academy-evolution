@@ -1,0 +1,16 @@
+{
+    "name": "Fiat Topolino",
+    "amount": 660,
+    "id": "fiat-topolino",
+    "image": "fiat-topolino",
+    "year":	1948,
+    "bodytype":	"Coupe",
+    "passengers": 3,
+    "doors": 2,
+    "color": "Red",
+    "fueltype": "Petrol",
+    "cc": 586,
+    "cylinderlayout": "In-Line",
+    "transmission": "Manual",
+    "currency": "USD"
+}

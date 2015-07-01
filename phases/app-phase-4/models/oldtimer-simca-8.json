@@ -1,0 +1,16 @@
+{
+    "name": "Simca 8",
+    "amount": 19560,
+    "id": "simca-8",
+    "image": "simca-8",
+    "year":	1950,
+    "bodytype":	"Sedan",
+    "passengers": 4,
+    "doors": 5,
+    "color": "White",
+    "fueltype": "Petrol",
+    "cc": 1221,
+    "cylinderlayout": "In-Line",
+    "transmission": "4-speed Manual",
+    "currency": "USD"
+}

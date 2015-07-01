@@ -1,0 +1,42 @@
+@import "../../definitions/definitions.less";
+
+.vehicle-detail {
+    header {
+        margin-bottom: 1rem;
+    }
+    > section {
+        .solidBorder(@Grey);
+        border-radius: @BorderRadius * 2;
+        overflow: hidden;
+        > section {
+            display: inline-block;
+            vertical-align: top;
+            width: 49%;
+            div {
+                float: right;
+                margin-right: 0.5rem;
+            }
+        }
+    }
+    > section > div {
+        margin: 0.2rem;
+        padding: 0.2rem;
+    }
+    img {
+        float: left;
+        margin-right: 1.5rem;
+    }
+    table {
+        width: 100%;
+    }
+    th {
+        text-align: left;
+        width: 45%
+    }
+    .parking-zone {
+        clear: both;
+        input {
+            width: 50px;
+        }
+    }
+}

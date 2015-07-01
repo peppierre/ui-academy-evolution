@@ -1,0 +1,24 @@
+PUMIEPE.route(
+    "/",
+    "index.hbs"
+);
+PUMIEPE.route(
+    "/signup",
+    "signup.hbs"
+);
+PUMIEPE.route(
+    "/login",
+    "login.hbs"
+);
+PUMIEPE.route(
+    "/logout",
+    "logout.hbs"
+);
+PUMIEPE.route(
+    "/oldtimers",
+    "oldtimers.hbs"
+);
+PUMIEPE.route(
+    "/oldtimer/:vehicle",
+    "vehicle.hbs"
+);

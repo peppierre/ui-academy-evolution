@@ -1,0 +1,14 @@
+<article class="vehicle-list">
+    <header>
+        <a href="#/logout">Log out</a>
+    </header>
+    <section>
+        {{#each vehicles}}
+        <section>
+            <a href="#/oldtimer/{{id}}"><img src="/assets/images/{{image}}"/></a>
+            <h2><a href="#/oldtimer/{{id}}">{{name}}</a></h2>
+            <div>{{amount}} {{currency}}</div>
+        </section>
+        {{/each}}
+    </section>
+</article>

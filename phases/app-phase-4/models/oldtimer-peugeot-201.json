@@ -1,0 +1,16 @@
+{
+    "name": "Peugeot 201",
+    "amount": 12510,
+    "id": "peugeot-201",
+    "image": "peugeot-201",
+    "year":	1931,
+    "bodytype":	"Estate",
+    "passengers": 4,
+    "doors": 4,
+    "color": "Black",
+    "fueltype": "Petrol",
+    "cc": 1122,
+    "cylinderlayout": "In-Line",
+    "transmission": "3-speed Manual",
+    "currency": "USD"
+}

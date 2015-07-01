@@ -1,0 +1,16 @@
+{
+    "name": "Jaguar Mark 5",
+    "amount": 60077,
+    "id": "jaguar-mark-5",
+    "image": "jaguar-mark-5",
+    "year":	1949,
+    "bodytype":	"Hatchback",
+    "passengers": 5,
+    "doors": 4,
+    "color": "Claret/Pink",
+    "fueltype": "Petrol",
+    "cc": 2663,
+    "cylinderlayout": "In-Line",
+    "transmission": "4-speed Manual",
+    "currency": "USD"
+}

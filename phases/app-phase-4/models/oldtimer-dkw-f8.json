@@ -1,0 +1,16 @@
+{
+    "name": "DKW f8",
+    "amount": 12992,
+    "id": "dkw-f8",
+    "image": "dkw-f8",
+    "year":	1938,
+    "bodytype":	"Estate",
+    "passengers": 4,
+    "doors": 3,
+    "color": "Claret",
+    "fueltype": "Petrol",
+    "cc": 700,
+    "cylinderlayout": "In-Line",
+    "transmission": "3-speed Manual",
+    "currency": "USD"
+}

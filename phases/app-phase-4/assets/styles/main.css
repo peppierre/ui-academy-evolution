@@ -1,0 +1,181 @@
+@font-face {
+    font-family: UI-Academy;
+    src: url(/assets/fonts/53b86a1e.UI-Academy.eot?#iefix) format(embedded-opentype),
+    url(/assets/fonts/5fd8c302.UI-Academy.woff) format(woff),
+    url(/assets/fonts/cfe09c4c.UI-Academy.ttf) format(truetype),
+    url(/assets/fonts/b6bf5d14.UI-Academy.svg?#UI-Academy) format(svg);
+    font-style: normal;
+    font-weight: 400;
+}
+
+*,:after,:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    max-width: 950px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #666;
+    background: #f2f2f2;
+    margin: 0 auto;
+}
+
+header,h1,h2,h3,h4,h5,h6 {
+    font-family: "UI-Academy";
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: none;
+    speak: none;
+    font-variant: normal;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+}
+
+a img {
+    border: none 0;
+}
+
+button {
+    font-size: 1rem;
+    color: #fff;
+    cursor: pointer;
+    background-color: #06b;
+    border: solid 1px #0082ee;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: .3rem;
+}
+
+body > header img,
+body > header div {
+    display: inline-block;
+    width: 49%;
+    font-size: 3rem;
+    margin: 0;
+}
+
+body > header {
+    width: 100%;
+}
+
+body > main {
+    width: 75%;
+    margin: 0 auto;
+}
+
+body > main header {
+    text-align: right;
+}
+
+.start-screen div {
+    display: inline-block;
+    width: 49%;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #06b;
+    border: solid 1px #0082ee;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    padding: .3rem;
+}
+
+.start-screen div a {
+    display: block;
+    color: inherit;
+}
+
+.signup label {
+    display: inline-block;
+    width: 29%;
+}
+
+.signup input {
+    display: inline-block;
+    width: 69%;
+}
+
+.login label {
+    display: inline-block;
+    width: 29%;
+}
+
+.login input {
+    display: inline-block;
+    width: 69%;
+}
+
+.vehicle-list header {
+    margin-bottom: 1rem;
+}
+
+.vehicle-list section section {
+    margin-bottom: 1.5rem;
+    overflow: hidden;
+    border: solid 1px #ccc;
+    border-radius: 6px;
+}
+
+.vehicle-list img {
+    float: left;
+    margin-right: 2rem;
+}
+
+.vehicle-detail > section {
+    overflow: hidden;
+    border: solid 1px #ccc;
+    border-radius: 6px;
+}
+
+.vehicle-detail > section > section {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+
+.vehicle-detail > section > section div {
+    float: right;
+    margin-right: .5rem;
+}
+
+.vehicle-detail > section > div {
+    margin: .2rem;
+    padding: .2rem;
+}
+
+.vehicle-detail img {
+    float: left;
+    margin-right: 1.5rem;
+}
+
+.vehicle-detail th {
+    width: 45%;
+    text-align: left;
+}
+
+.vehicle-detail .parking-zone {
+    clear: both;
+}
+
+.vehicle-detail .parking-zone input {
+    width: 50px;
+}
+
+.vehicle-detail table {
+    width: 100%;
+}
+
+.vehicle-detail header {
+    margin-bottom: 1rem;
+}
